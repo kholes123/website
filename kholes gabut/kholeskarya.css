@@ -1,0 +1,27 @@
+h1{
+    color: white;
+    text-shadow: aqua;
+}
+
+img{
+    width: 180px;
+    height: 180px;
+    
+}
+
+p{
+    color: white;
+    line-height: 1px;
+    
+
+    
+}
+
+
+body{
+    background-image: url(fotoku/ibkh.jpg);
+    background-size: 250px;
+    
+
+   
+}
